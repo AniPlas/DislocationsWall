@@ -1,3 +1,7 @@
+% Author: Thiebaud RICHETON
+% Date: October 2024
+% email: thiebaud.richeton@univ-lorraine.fr
+
 clear;
 close all;
 clc;
